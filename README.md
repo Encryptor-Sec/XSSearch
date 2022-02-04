@@ -22,7 +22,7 @@
 The XSSearch developer will not be held liable if the tool is used with harmful or criminal intent. Please use at your own risk. :)
 
 **** 
->#### USES OF XSSearch :
+>#### USES :
 - XSSearch can be used to discover reflected Cross Site Scripting (XSS) vulnerabilities 
 - XSSearch is capable of validating XSS payloads.
 - XSSearch will facilitate in the automation of brute - force attack for the verification of reflected XSS.
