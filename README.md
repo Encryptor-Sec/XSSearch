@@ -1,4 +1,4 @@
 # XSSearch
 <p align="center">
-  <img  width="250" src="Images/Banner.png" />
+  <img  width="250" src="Images/Banner.PNG" />
 </p>
