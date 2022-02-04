@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/WebDriver-ChromeDriver-blue>
 </p>
 <p align="center">
-    <h3 align="center"> XSSearch is a comprehensive reflected XSS tool with 3000+ Pyaloads for automating XSS attacks and validating XSS endpoints.  </h3>
+    <h3 align="center"> XSSearch is a comprehensive reflected XSS tool with 3000+ Payloads for automating XSS attacks and validating XSS endpoints.  </h3>
 </p>
 
 ***
